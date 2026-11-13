@@ -11,7 +11,7 @@ Current source layout and registry coverage. A GitHub download is distinct from 
 | Python/pypi | built_fixture_and_production_verified | fyrainput-gamepad [Source](FyraInput-Gamepad-Python-pypi/) |
 | Python/conda-forge | custom_channel_install_verified_requires_conda_forge_review | [fyrainput-gamepad](https://raw.githubusercontent.com/TitanCSA/sdk-packages/089bc73095aa8eda89bacbe10d0b9e58394b0207/conda-channel) [Source](packaging/conda/) |
 | Rust/cargo | published_install_verified | [fyrainput-gamepad](https://crates.io/crates/fyrainput-gamepad) [Source](FyraInput-Gamepad-Rust-cargo/) |
-| JavaScript/npm | submitted_requires_indexing | fyrainput-gamepad [Source](FyraInput-Gamepad-JavaScript-npm/) |
+| JavaScript/npm | published_install_verified | [fyrainput-gamepad](https://www.npmjs.com/package/fyrainput-gamepad) [Source](FyraInput-Gamepad-JavaScript-npm/) |
 | Java/maven | published_install_verified | [fyrainput-gamepad](https://central.sonatype.com/artifact/io.github.titancsa/fyrainput-gamepad/1.0.0) [Source](FyraInput-Gamepad-Java-maven/) |
 | Java/jitpack | published_install_verified | [fyrainput-gamepad](https://jitpack.io/#TitanCSA/FyraInput-Gamepad-SDK/java-sdk-v1.0.0) [Source](FyraInput-Gamepad-Java-maven/) |
 | Go/modules | published_install_verified | [fyrainput-gamepad](https://pkg.go.dev/github.com/TitanCSA/FyraInput-Gamepad-SDK/FyraInput-Gamepad-Go-modules@v1.0.0) [Source](FyraInput-Gamepad-Go-modules/) |

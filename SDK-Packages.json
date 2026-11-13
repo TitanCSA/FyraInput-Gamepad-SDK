@@ -170,14 +170,14 @@
       "api_prefix": "fyrainput_gamepad_"
     },
     "JavaScript/npm": {
-      "status": "submitted_requires_indexing",
+      "status": "published_install_verified",
       "name": "fyrainput-gamepad",
       "version": "1.0.0",
       "directory": "FyraInput-Gamepad-JavaScript-npm",
-      "registry_published": false,
+      "registry_published": true,
       "documentation_bundled": true,
-      "url": null,
-      "public_consumer_verified": false,
+      "url": "https://www.npmjs.com/package/fyrainput-gamepad",
+      "public_consumer_verified": true,
       "module": "fyrainput_gamepad",
       "dll_name": "FyraInputGamepadBridge.dll",
       "api_prefix": "fyrainput_gamepad_"
