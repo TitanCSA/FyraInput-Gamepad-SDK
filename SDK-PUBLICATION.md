@@ -6,12 +6,12 @@ Current source layout and registry coverage. A GitHub download is distinct from 
 | --- | --- | --- |
 | CPP/vcpkg | published_custom_registry | fyrainput-gamepad |
 | CPP/conan | published_custom_source_index | [fyrainput-gamepad](https://github.com/TitanCSA/sdk-packages/tree/089bc73095aa8eda89bacbe10d0b9e58394b0207/conan-index) [Source](packaging/native/) |
-| CPP/nuget | account_email_confirmed_requires_matching_trusted_publishing_policy | FyraInput-Gamepad.Native |
-| NET/nuget | built_verified_requires_trusted_publishing_policy | FyraInputGamepad.SDK [Source](FyraInput-Gamepad-NET-nuget/) |
+| CPP/nuget | published_payload_verified | [FyraInput-Gamepad.Native](https://www.nuget.org/packages/FyraInput-Gamepad.Native/0.1.0) |
+| NET/nuget | published_payload_verified | [FyraInputGamepad.SDK](https://www.nuget.org/packages/FyraInputGamepad.SDK/1.0.0) |
 | Python/pypi | built_fixture_and_production_verified | fyrainput-gamepad [Source](FyraInput-Gamepad-Python-pypi/) |
 | Python/conda-forge | custom_channel_install_verified_requires_conda_forge_review | [fyrainput-gamepad](https://raw.githubusercontent.com/TitanCSA/sdk-packages/089bc73095aa8eda89bacbe10d0b9e58394b0207/conda-channel) [Source](packaging/conda/) |
 | Rust/cargo | published_install_verified | [fyrainput-gamepad](https://crates.io/crates/fyrainput-gamepad) [Source](FyraInput-Gamepad-Rust-cargo/) |
-| JavaScript/npm | registry_publication_requires_action | [fyrainput-gamepad](https://www.npmjs.com/package/fyrainput-gamepad) [Source](FyraInput-Gamepad-JavaScript-npm/) |
+| JavaScript/npm | submitted_requires_indexing | fyrainput-gamepad [Source](FyraInput-Gamepad-JavaScript-npm/) |
 | Java/maven | published_install_verified | [fyrainput-gamepad](https://central.sonatype.com/artifact/io.github.titancsa/fyrainput-gamepad/1.0.0) [Source](FyraInput-Gamepad-Java-maven/) |
 | Java/jitpack | published_install_verified | [fyrainput-gamepad](https://jitpack.io/#TitanCSA/FyraInput-Gamepad-SDK/java-sdk-v1.0.0) [Source](FyraInput-Gamepad-Java-maven/) |
 | Go/modules | published_install_verified | [fyrainput-gamepad](https://pkg.go.dev/github.com/TitanCSA/FyraInput-Gamepad-SDK/FyraInput-Gamepad-Go-modules@v1.0.0) [Source](FyraInput-Gamepad-Go-modules/) |
