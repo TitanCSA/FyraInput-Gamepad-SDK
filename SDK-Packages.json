@@ -171,7 +171,7 @@
       "api_prefix": "fyrainput_gamepad_"
     },
     "JavaScript/npm": {
-      "status": "awaiting_browser_publication_authentication",
+      "status": "registry_publication_requires_action",
       "name": "fyrainput-gamepad",
       "version": "1.0.0",
       "directory": "FyraInput-Gamepad-JavaScript-npm",
