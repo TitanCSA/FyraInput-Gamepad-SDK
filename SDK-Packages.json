@@ -104,10 +104,11 @@
       "registry_published": false,
       "consumer_build_verified": true,
       "documentation_bundled": true,
-      "publication_on_hold_by_owner": true
+      "publication_on_hold_by_owner": false,
+      "nuget_publication_status": "ready_requires_trusted_publishing_policy"
     },
     "NET/nuget": {
-      "status": "built_verified_publication_on_hold_by_owner",
+      "status": "built_verified_requires_trusted_publishing_policy",
       "name": "FyraInputGamepad.SDK",
       "version": "1.0.0",
       "directory": "FyraInput-Gamepad-NET-nuget",
@@ -118,7 +119,8 @@
       "module": "fyrainput_gamepad",
       "dll_name": "FyraInputGamepadBridge.dll",
       "api_prefix": "fyrainput_gamepad_",
-      "publication_on_hold_by_owner": true
+      "publication_on_hold_by_owner": false,
+      "nuget_publication_status": "ready_requires_trusted_publishing_policy"
     },
     "Python/pypi": {
       "status": "built_fixture_and_production_verified",
