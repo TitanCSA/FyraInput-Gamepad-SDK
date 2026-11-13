@@ -5,11 +5,11 @@ Current source layout and registry coverage. A GitHub download is distinct from 
 | Target | Status | Package / documentation |
 | --- | --- | --- |
 | CPP/vcpkg | published_custom_registry | fyrainput-gamepad |
-| CPP/conan | public_recipe_builds_locally |  [Source](packaging/native/) |
+| CPP/conan | published_custom_source_index | [fyrainput-gamepad](https://github.com/TitanCSA/sdk-packages/tree/089bc73095aa8eda89bacbe10d0b9e58394b0207/conan-index) [Source](packaging/native/) |
 | CPP/nuget | paused_pending_owner_email_confirmation | FyraInput-Gamepad.Native |
 | NET/nuget | built_verified_publication_on_hold_by_owner | FyraInputGamepad.SDK [Source](FyraInput-Gamepad-NET-nuget/) |
 | Python/pypi | built_fixture_and_production_verified | fyrainput-gamepad [Source](FyraInput-Gamepad-Python-pypi/) |
-| Python/conda-forge | built_tested_requires_official_review | fyrainput-gamepad [Source](packaging/conda/) |
+| Python/conda-forge | custom_channel_install_verified_requires_conda_forge_review | [fyrainput-gamepad](https://raw.githubusercontent.com/TitanCSA/sdk-packages/089bc73095aa8eda89bacbe10d0b9e58394b0207/conda-channel) [Source](packaging/conda/) |
 | Rust/cargo | published_install_verified | [fyrainput-gamepad](https://crates.io/crates/fyrainput-gamepad) [Source](FyraInput-Gamepad-Rust-cargo/) |
 | JavaScript/npm | awaiting_browser_publication_authentication | [fyrainput-gamepad](https://www.npmjs.com/package/fyrainput-gamepad) [Source](FyraInput-Gamepad-JavaScript-npm/) |
 | Java/maven | published_install_verified | [fyrainput-gamepad](https://central.sonatype.com/artifact/io.github.titancsa/fyrainput-gamepad/1.0.0) [Source](FyraInput-Gamepad-Java-maven/) |
