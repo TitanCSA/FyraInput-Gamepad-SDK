@@ -29,7 +29,7 @@ Les sources, licences, guides API et exemples sont regroupes dans [le depot SDK 
 | PowerShell Gallery | `FyraInputGamepad` | `Install-Module FyraInputGamepad -RequiredVersion 1.0.0 -Scope CurrentUser` |
 | pub.dev | `fyrainput_gamepad` | `dart pub add fyrainput_gamepad:1.0.0` |
 | RubyGems | `fyrainput-gamepad` | `gem install fyrainput-gamepad -v 1.0.0` |
-| Packagist | `titancsa/fyrainput-gamepad` | Commande prevue apres publication : `composer require titancsa/fyrainput-gamepad:1.0.0` |
+| Packagist | `titancsa/fyrainput-gamepad` | `composer require titancsa/fyrainput-gamepad:1.0.0` |
 
 Pour vcpkg et Conan, configure d abord le registre TitanCSA avec [le guide complet](https://github.com/TitanCSA/sdk-packages/tree/main/projects/FyraInput-Gamepad/README.md). Le guide explique aussi Maven/Gradle, les prerequis et le chargement des DLL. Les pilotes/applications du produit sont installes separement. Les commandes marquees prevues ne sont pas encore disponibles.
 
