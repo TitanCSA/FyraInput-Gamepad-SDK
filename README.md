@@ -1,5 +1,11 @@
 # FyraInput-Gamepad SDK packages
 
+<!-- simple-start:start -->
+Use the FyraInput gamepad library in your own app.
+
+**Start here.** Choose your language and look for its first gamepad example. Install its runtime separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
